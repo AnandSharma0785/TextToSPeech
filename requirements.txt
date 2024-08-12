@@ -1,0 +1,4 @@
+tkinter
+pyttsx3
+sapi5 # Only if using the sapi5 driver
+
